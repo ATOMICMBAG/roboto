@@ -1,0 +1,11 @@
+{
+  "steppers": {
+    "X": { "id": 1, "steps_per_mm": 80 },
+    "Y": { "id": 2, "steps_per_mm": 80 },
+    "Z": { "id": 3, "steps_per_mm": 400 }
+  },
+  "servos": {
+    "pan": { "id": 1, "min": 0, "max": 180 },
+    "tilt": { "id": 2, "min": 0, "max": 180 }
+  }
+}
