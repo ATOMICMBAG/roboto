@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.backend
+    ports:
+      - "8022:8022"
+    volumes:
+      - ./backend/datasets:/app/datasets
+      - ./recordings:/app/recordings
+
+  ui:
+    build:
+      context: ./ui
+      dockerfile: Dockerfile.ui
+    ports:
+      - "8033:80"
