@@ -1,4 +1,4 @@
-[DE](./README_DE.md) ｜ DE
+[DE](./README_DE.md) ｜ EN
 
 # roboto - Modular Robotics & Vision Framework
 
