@@ -138,7 +138,7 @@
 
       <section>
           <h2>Live Preview</h2>
-          <p>A live preview of the application is available on the author's VPS at <a href="https://roboto.maazi.de" target="_self" rel="noopener" class="link">roboto.maazi.de</a>. However, please note that without connected hardware (Arduino, sensors, etc.), certain features like motion control and sensor readings will not function or will show placeholder data. The vision system and UI will operate normally, but full functionality requires the appropriate hardware attachments.</p>
+          <p>A live preview of the application is available at <a href="https://roboto.maazi.de" target="_self" rel="noopener" class="link">roboto.maazi.de</a>. However, please note that without connected hardware (Arduino, sensors, etc.), certain features like motion control and sensor readings will not function or will show placeholder data. The vision system and UI will operate normally, but full functionality requires the appropriate hardware attachments.</p>
           <p>If you have compatible hardware, you can connect it and the system should automatically detect and utilize it.</p>
       </section>
 
@@ -473,7 +473,7 @@
 
       <section>
           <h2>Live-Vorschau</h2>
-          <p>Eine Live-Vorschau der Anwendung ist auf dem VPS des Autors verfügbar unter <a href="https://roboto.maazi.de" target="_self" rel="noopener" class="link">roboto.maazi.de</a>. Beachte jedoch bitte, dass ohne angeschlossene Hardware (Arduino, Sensoren usw.) bestimmte Funktionen wie Bewegungskontrolle und Sensormessungen nicht funktionieren oder Platzhalterdaten anzeigen werden. Das Vision-System und die UI funktionieren normal, aber volle Funktionalität erfordert die entsprechende Hardware-Anbindung.</p>
+          <p>Eine Live-Vorschau der Anwendung ist verfügbar unter <a href="https://roboto.maazi.de" target="_self" rel="noopener" class="link">roboto.maazi.de</a>. Beachte jedoch bitte, dass ohne angeschlossene Hardware (Arduino, Sensoren usw.) bestimmte Funktionen wie Bewegungskontrolle und Sensormessungen nicht funktionieren oder Platzhalterdaten anzeigen werden. Das Vision-System und die UI funktionieren normal, aber volle Funktionalität erfordert die entsprechende Hardware-Anbindung.</p>
           <p>Wenn du kompatible Hardware hast, kannst du sie anschließen und das System sollte sie automatisch erkennen und nutzen.</p>
       </section>
 
