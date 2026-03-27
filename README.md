@@ -11,7 +11,7 @@
 
 ## Live Preview
 
-A live preview of the application is available on the author's VPS at [**roboto.maazi.de**](https://roboto.maazi.de). However, **please note that without connected hardware (Arduino, sensors, etc.), certain features like motion control and sensor readings will not function or will show placeholder data**. The vision system and UI will operate normally, but full functionality requires the appropriate hardware attachments.
+A live preview of the application is available at [**roboto.maazi.de**](https://roboto.maazi.de). However, **please note that without connected hardware (Arduino, sensors, etc.), certain features like motion control and sensor readings will not function or will show placeholder data**. The vision system and UI will operate normally, but full functionality requires the appropriate hardware attachments.
 
 If you have compatible hardware, you can connect it and the system should automatically detect and utilize it.
 
@@ -368,7 +368,7 @@ Note: The UI container expects the frontend build to be present in `roboto-relea
 
 ## Live Preview
 
-A live preview of the application is available on the author's VPS at [**roboto.maazi.de**](https://roboto.maazi.de). However, **please note that without connected hardware (Arduino, sensors, etc.), certain features like motion control and sensor readings will not function or will show placeholder data**. The vision system and UI will operate normally, but full functionality requires the appropriate hardware attachments.
+A live preview of the application is available at [**roboto.maazi.de**](https://roboto.maazi.de). However, **please note that without connected hardware (Arduino, sensors, etc.), certain features like motion control and sensor readings will not function or will show placeholder data**. The vision system and UI will operate normally, but full functionality requires the appropriate hardware attachments.
 
 If you have compatible hardware, you can connect it and the system should automatically detect and utilize it.
 
