@@ -71,7 +71,7 @@
 
 <main class="app">
   <header class="topbar">
-    <h1>maazi.de | Roboto Control UI</h1>
+    <h1><a href="https://roboto.maazi.de" target="_self" class="link">maazi.de | Roboto Control UI</a> </h1>
     <div class="statusbar">
       <span class="badge" class:ok={$backendOnline} class:bad={!$backendOnline}>
         Backend: {$backendOnline ? "ONLINE" : "OFFLINE"}
@@ -151,6 +151,23 @@
   nav {
     display: flex;
     gap: 0.5rem;
+  }
+
+  .link {
+    color: #000000;
+    text-decoration: none;
+  }
+
+  .link:visited {
+    text-decoration: none;
+  }
+
+  .link:hover {
+    text-decoration: underline;
+  }
+
+  .link:active {
+    text-decoration: none;
   }
 
   .statusbar {
