@@ -11,7 +11,7 @@
 
 ## Live-Vorschau
 
-Eine Live-Vorschau der Anwendung ist auf dem VPS des Autors verfügbar unter [**roboto.maazi.de**](https://roboto.maazi.de). **Beachte jedoch bitte, dass ohne angeschlossene Hardware (Arduino, Sensoren usw.) bestimmte Funktionen wie Bewegungskontrolle und Sensormessungen nicht funktionieren oder Platzhalterdaten anzeigen werden.** Das Vision-System und die UI funktionieren normal, aber volle Funktionalität erfordert die entsprechende Hardware-Anbindung.
+Eine Live-Vorschau der Anwendung ist verfügbar unter [**roboto.maazi.de**](https://roboto.maazi.de). **Beachte jedoch bitte, dass ohne angeschlossene Hardware (Arduino, Sensoren usw.) bestimmte Funktionen wie Bewegungskontrolle und Sensormessungen nicht funktionieren oder Platzhalterdaten anzeigen werden.** Das Vision-System und die UI funktionieren normal, aber volle Funktionalität erfordert die entsprechende Hardware-Anbindung.
 
 Wenn du kompatible Hardware hast, kannst du sie anschließen und das System sollte sie automatisch erkennen und nutzen.
 
@@ -269,7 +269,7 @@ Hinweis: Der UI-Container erwartet den Frontend-Build im Verzeichnis `roboto-rel
 
 ## Live-Vorschau
 
-Eine Live-Vorschau der Anwendung ist auf dem VPS des Autors verfügbar unter [**roboto.maazi.de**](https://roboto.maazi.de). **Beachte jedoch bitte, dass ohne angeschlossene Hardware (Arduino, Sensoren usw.) bestimmte Funktionen wie Bewegungskontrolle und Sensormessungen nicht funktionieren oder Platzhalterdaten anzeigen werden.** Das Vision-System und die UI funktionieren normal, aber volle Funktionalität erfordert die entsprechende Hardware-Anbindung.
+Eine Live-Vorschau der Anwendung ist verfügbar unter [**roboto.maazi.de**](https://roboto.maazi.de). **Beachte jedoch bitte, dass ohne angeschlossene Hardware (Arduino, Sensoren usw.) bestimmte Funktionen wie Bewegungskontrolle und Sensormessungen nicht funktionieren oder Platzhalterdaten anzeigen werden.** Das Vision-System und die UI funktionieren normal, aber volle Funktionalität erfordert die entsprechende Hardware-Anbindung.
 
 Wenn du kompatible Hardware hast, kannst du sie anschließen und das System sollte sie automatisch erkennen und nutzen.
 
